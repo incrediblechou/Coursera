@@ -1,2 +1,2 @@
 # Coursera
-This is where I share my Coursera Assignments
+This is where I share my Coursera assignments
